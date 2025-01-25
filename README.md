@@ -1,2 +1,2 @@
 # ConnectFourPlayer
-The Neural Network for Connect4
+The Deep Reinforcement Learning Model for Connect Four
